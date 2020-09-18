@@ -54,27 +54,29 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   <!-- Header/Home -->
   <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
     <h1 class="w3-jumbo"><span class="w3-hide-small">I'm</span> User.</h1>
-    <p>Cloud Developer Advocate , IBM Pakistan.</p>
+    <p>IT Infrastructure Engineer , Valuelabs India.</p>
     <img src="/profile.png" alt="boy" class="w3-image" width="100" height="100">
   </header>
 
   <!-- About Section -->
   <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="about">
     <hr style="width:200px" class="w3-opacity">
-    <p>Some text about me. Some text about me. I am lorem ipsum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-      ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur
-      adipiscing, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    <p>Some text about me. Some text about me. Hello all, I am Ashfan basically from Warangal , India and currently moved to Hyderabad, India. I am a IT Engineer for a Various client,coming from Non-Tech Backgroud by understanding my knowledge and area of interest I have determined to achieve My Profesional goal is to become Most successful Multi Cloud Engineer to take the world to new era of digital technolog . Pursuing Courses programs in Cloud computing and Programming Languages through various learning platform such as  Udacity, Exampro, coursera, Trailhead and Udemy. Additionally, upgrading my Communcation and Interpersonal skills.for more details please check out Linked in Profile and Contact details in About sidebar tab.  Thanks for visiting my profile!
     </p>
     <h3 class="w3-padding-16 w3-text-light-grey">My Skills</h3>
-    <p class="w3-wide">RedHat OpenShift</p>
+    <p class="w3-wide">Python Programming</p>
     <div class="w3-white">
       <div class="w3-dark-grey" style="height:28px;width:90%"></div>
     </div>
-    <p class="w3-wide">Kubernetes</p>
+    <p class="w3-wide">Advance Excel</p>
     <div class="w3-white">
       <div class="w3-dark-grey" style="height:28px;width:85%"></div>
     </div>
-    <p class="w3-wide">Cloud Migration</p>
+    <p class="w3-wide">AWS Solution Architech</p>
+    <div class="w3-white">
+      <div class="w3-dark-grey" style="height:28px;width:50%"></div>
+    </div
+    <p class="w3-wide">SQllite </p>
     <div class="w3-white">
       <div class="w3-dark-grey" style="height:28px;width:80%"></div>
     </div><br>
